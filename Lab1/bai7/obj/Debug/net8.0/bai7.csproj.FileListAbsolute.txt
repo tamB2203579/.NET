@@ -1,0 +1,28 @@
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.GeneratedMSBuildEditorConfig.editorconfig
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.AssemblyInfoInputs.cache
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.AssemblyInfo.cs
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.csproj.CoreCompileInputs.cache
+D:\B2203579\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.exe
+D:\B2203579\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.deps.json
+D:\B2203579\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.runtimeconfig.json
+D:\B2203579\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.dll
+D:\B2203579\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.pdb
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.dll
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\refint\bai7.dll
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.pdb
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.genruntimeconfig.cache
+D:\B2203579\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\ref\bai7.dll
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.exe
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.deps.json
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.runtimeconfig.json
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.dll
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\bin\Debug\net8.0\bai7.pdb
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.GeneratedMSBuildEditorConfig.editorconfig
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.AssemblyInfoInputs.cache
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.AssemblyInfo.cs
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.csproj.CoreCompileInputs.cache
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.dll
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\refint\bai7.dll
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.pdb
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\bai7.genruntimeconfig.cache
+D:\B2203579\3rd Year\.NET_Programming\Lab1\bai7\obj\Debug\net8.0\ref\bai7.dll

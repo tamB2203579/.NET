@@ -1,0 +1,16 @@
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\bin\Debug\net8.0-windows\Exercise1.exe
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\bin\Debug\net8.0-windows\Exercise1.deps.json
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\bin\Debug\net8.0-windows\Exercise1.runtimeconfig.json
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\bin\Debug\net8.0-windows\Exercise1.dll
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\bin\Debug\net8.0-windows\Exercise1.pdb
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.StudentDetails.resources
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.csproj.GenerateResource.cache
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.AssemblyInfoInputs.cache
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.AssemblyInfo.cs
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.csproj.CoreCompileInputs.cache
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.dll
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\refint\Exercise1.dll
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.pdb
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\Exercise1.genruntimeconfig.cache
+D:\B2203579\3rd Year\.NET_Programming\Lab2\Exercise1\obj\Debug\net8.0-windows\ref\Exercise1.dll

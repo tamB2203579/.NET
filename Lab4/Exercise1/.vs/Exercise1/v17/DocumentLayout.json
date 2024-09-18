@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF91424-10C1-4698-B820-C21480D5E1F0}|Exercise1.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4\\exercise1\\frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF91424-10C1-4698-B820-C21480D5E1F0}|Exercise1.csproj|solutionrelative:frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF91424-10C1-4698-B820-C21480D5E1F0}|Exercise1.csproj|D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEF91424-10C1-4698-B820-C21480D5E1F0}|Exercise1.csproj|solutionrelative:frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF91424-10C1-4698-B820-C21480D5E1F0}|Exercise1.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4\\exercise1\\classconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF91424-10C1-4698-B820-C21480D5E1F0}|Exercise1.csproj|solutionrelative:classconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDVDCatalog.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\frmDVDCatalog.cs",
+              "RelativeDocumentMoniker": "frmDVDCatalog.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\frmDVDCatalog.cs",
+              "RelativeToolTip": "frmDVDCatalog.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:51:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassConnection.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\ClassConnection.cs",
+              "RelativeDocumentMoniker": "ClassConnection.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\ClassConnection.cs",
+              "RelativeToolTip": "ClassConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:43:12.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDVDCatalog.cs [Design]",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\frmDVDCatalog.cs",
+              "RelativeDocumentMoniker": "frmDVDCatalog.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4\\Exercise1\\frmDVDCatalog.cs [Design]",
+              "RelativeToolTip": "frmDVDCatalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:43:11.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

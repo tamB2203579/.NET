@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3876781F-8C66-494D-B906-510DBBB690D7}|Exercise2.csproj|D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise2\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3876781F-8C66-494D-B906-510DBBB690D7}|Exercise2.csproj|solutionrelative:employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3876781F-8C66-494D-B906-510DBBB690D7}|Exercise2.csproj|d:\\b2203579\\3rd year\\.net_programming\\lab2\\exercise2\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3876781F-8C66-494D-B906-510DBBB690D7}|Exercise2.csproj|solutionrelative:employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise2\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails.cs",
+              "ToolTip": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise2\\EmployeeDetails.cs",
+              "RelativeToolTip": "EmployeeDetails.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:21:00.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDetails.cs [Design]",
+              "DocumentMoniker": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise2\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails.cs",
+              "ToolTip": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise2\\EmployeeDetails.cs [Design]",
+              "RelativeToolTip": "EmployeeDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:17:02.027Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

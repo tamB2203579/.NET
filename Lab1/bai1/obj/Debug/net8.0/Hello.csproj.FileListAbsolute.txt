@@ -1,0 +1,14 @@
+D:\B2203579\.NET_Programming\Hello\bin\Debug\net8.0\Hello.exe
+D:\B2203579\.NET_Programming\Hello\bin\Debug\net8.0\Hello.deps.json
+D:\B2203579\.NET_Programming\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+D:\B2203579\.NET_Programming\Hello\bin\Debug\net8.0\Hello.dll
+D:\B2203579\.NET_Programming\Hello\bin\Debug\net8.0\Hello.pdb
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\Hello.dll
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\refint\Hello.dll
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\Hello.pdb
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+D:\B2203579\.NET_Programming\Hello\obj\Debug\net8.0\ref\Hello.dll

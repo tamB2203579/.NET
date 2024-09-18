@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E28364-2B38-4A13-BFF4-DE0301D5B27D}|Exercise1.csproj|d:\\b2203579\\3rd year\\.net_programming\\lab2\\exercise1\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24E28364-2B38-4A13-BFF4-DE0301D5B27D}|Exercise1.csproj|solutionrelative:studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E28364-2B38-4A13-BFF4-DE0301D5B27D}|Exercise1.csproj|d:\\b2203579\\3rd year\\.net_programming\\lab2\\exercise1\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E28364-2B38-4A13-BFF4-DE0301D5B27D}|Exercise1.csproj|solutionrelative:studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDetails.cs [Design]",
+              "DocumentMoniker": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise1\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentDetails.cs",
+              "ToolTip": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise1\\StudentDetails.cs [Design]",
+              "RelativeToolTip": "StudentDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:35:14.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise1\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentDetails.cs",
+              "ToolTip": "D:\\B2203579\\3rd Year\\.NET_Programming\\Lab2\\Exercise1\\StudentDetails.cs",
+              "RelativeToolTip": "StudentDetails.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:25:33.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
