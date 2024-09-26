@@ -1,0 +1,20 @@
+@page "/compute"
+@inherits ComputeBase
+@rendermode InteractiveServer
+
+<form>
+    <div class="mb-3">
+        <label for="inputNumber1" class="form-label">Number 1</label>
+        <input type="text" class="form-control" id="txtNum1" @bind="@num1">
+    </div>
+    <div class="mb-3">
+        <label for="inputNumber2" class="form-label">Number 2</label>
+    `    <input type="text" class="form-control" id="txtNum2" @bind="@num2">
+    </div>
+    <div class="mb-3">
+        <label for="inputNumber2" class="form-label">Result</label>
+        <input type="text" class="form-control" id="txtResult" @bind="@num">
+    </div>
+    <button type="button" class="btn-btn-primary" @onclick="Form_Calculate">Calculate</button>
+    <button type="button" class="btn-btn-primary" @onclick="Form_Clear">Clear</button>
+</form>
